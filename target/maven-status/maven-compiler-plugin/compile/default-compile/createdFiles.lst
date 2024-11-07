@@ -1,0 +1,4 @@
+solana\Checkbalance.class
+solana\Transfer.class
+solana\SolanaTest.class
+solana\PrivateKeyConverter.class
